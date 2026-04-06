@@ -46,7 +46,7 @@ Recommender systems can automatically recommend users with items that they proba
 ### Framework Figure
 
 ```markdown
-![Framework](./assets/duple-fig.pdf)
+![Framework](./duple-fig.pdf)
 ```
 **Figure 1.** Overall framework.
 
