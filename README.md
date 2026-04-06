@@ -45,9 +45,11 @@ Recommender systems can automatically recommend users with items that they proba
 ## method--framework
 ### Framework Figure
 
+
+![Framework](https://github.com/iLearn-Lab/TOIS2024-DUPLE/blob/main/duple-fig_01.png)
 ```markdown
-[Framework](https://github.com/iLearn-Lab/TOIS2024-DUPLE/blob/main/duple-fig_01.png)
 **Figure 1.** Overall framework.
+```
 
 ---
 
